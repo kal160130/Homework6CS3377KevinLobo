@@ -40,6 +40,6 @@ int main()
       exit(1);
     }
   drawCDKMatrix(bitMatrix, true);
-  
+  endCDK();
 
 }

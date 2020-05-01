@@ -8,15 +8,3 @@
    2020 All rights reserved
    Header file for Assignment 6 programs
 */
-#include <iostream>
-#include <fstream>
-#include <cstring>
-#include <cstdint>
-
-using namespace std;
-
-
-int main()
-{
-  
-}
